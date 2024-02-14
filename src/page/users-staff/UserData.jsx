@@ -1,0 +1,81 @@
+const UserData = [
+    {
+        name: 'a',
+        email: 'a@g',
+        mobile: '7657577565',
+        amenities: 'swimingpool',
+        role: 'admin',
+    },
+    {
+        name: 'b',
+        email: 'a@g',
+        mobile: '3454353453',
+        amenities: 'table',
+        role: 'staff',
+    },
+    {
+        name: 'c',
+        email: 'a@g',
+        mobile: '4534545345',
+        amenities: 'xss',
+        role: 'admin',
+    },
+    {
+        name: 'd',
+        email: 'a@g',
+        mobile: '5464654564',
+        amenities: 'xyz',
+        role: 'staff',
+    },
+    {
+        name: 'w',
+        email: 'a@g',
+        mobile: '5654675672',
+        amenities: 'abc',
+        role: 'admin',
+    },
+    {
+        name: 'e',
+        email: 'a@g',
+        mobile: '6756788686',
+        amenities: 'eee',
+        role: 'staff',
+    },
+    {
+        name: 'g',
+        email: 'a@g',
+        mobile: '7756756756',
+        amenities: 'ffsd',
+        role: 'admin',
+    },
+    {
+        name: 'b',
+        email: 'a@g',
+        mobile: '5678676867',
+        amenities: 'sddf',
+        role: 'staff',
+    },
+    {
+        name: 'y',
+        email: 'a@g',
+        mobile: '5646546756',
+        amenities: 'ssss',
+        role: 'admin',
+    },
+    {
+        name: 'fg',
+        email: 'a@g',
+        mobile: '45654675675',
+        amenities: 'saaa',
+        role: 'staff',
+    },
+    {
+        name: 'f',
+        email: 'a@g',
+        mobile: '45654676578',
+        amenities: 'wwee',
+        role: 'staff',
+    },
+]
+
+export default UserData;
